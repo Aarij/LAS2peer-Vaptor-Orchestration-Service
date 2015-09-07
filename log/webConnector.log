@@ -1,0 +1,15 @@
+15-Jul-2015 20:39:25	Web-Connector in HTTP mode running on port 7074
+15-Jul-2015 20:43:08	Web-Connector in HTTP mode running on port 7074
+15-Jul-2015 20:45:24	 Error: Exception while processing RMI: /recommend/getPlaylist
+15-Jul-2015 20:45:24	 Error: Invocation request /favicon.ico for unknown service method
+10-Aug-2015 12:40:16	Web-Connector in HTTP mode running on port 7080
+10-Aug-2015 12:56:15	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 12:56:15	 Error: Invocation request /favicon.ico for unknown service method
+10-Aug-2015 12:58:04	Web-Connector in HTTP mode running on port 7080
+10-Aug-2015 12:58:09	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 12:58:55	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 12:59:01	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 12:59:08	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 12:59:18	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 12:59:21	 Error: Exception while processing RMI: /vaptor/adapter/getPlaylist
+10-Aug-2015 13:03:09	Web-Connector in HTTP mode running on port 7080
